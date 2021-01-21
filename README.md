@@ -22,21 +22,21 @@
 
 
 ### [Data Management](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Data%20Management) 
-- Modeling Amazon Call Center, Warehouse, Inventory Management and implementing within a Data Lake Spark.
+- [Modeling Amazon Call Center, Warehouse, Inventory Management and implementing within a Data Lake Spark](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Data%20Management/Data%20Management%20Project/Data%20Management%20Project.pdf).
 
 ### [Text Analysis](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis) 
-- Predicting the similarities and common sentiment associated with the launch of new XBOX and PS5.
+- [Predicting the similarities and common sentiment associated with the launch of new XBOX and PS5](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis/Text%20Analysis%20Project).
 
 ### [Data Analytics](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Data%20Analytics%20-%20Summer)
 
-- Predicting the popularity of a song using different features from Spotify Top 100 Songs across the decade.
+- [Predicting the popularity of a song using different properties from Spotify Top 100 Songs across the decade](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Data%20Analytics%20-%20Summer/DA%20-%20Spotify%20Project/Spotify_Group_Project.pdf).
 
 ### [Predictive Modeling](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Predictive%20Modeling%20-Summer)
-- Airbnb Price Prediction in NYC.
+- [Airbnb Price Prediction in NYC](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Predictive%20Modeling%20-Summer/Airbnb%20in%20NYC%20Prices.pdf).
 - [R Mini-Projects](https://github.com/AmberCXX/UTMSBA_STA380_Part2_exercise)
 
 
-- **Links**: https://linqapp.com/siddhant_chauhan
+- **Links**: [Connect With Mee😃](https://linqapp.com/siddhant_chauhan)
 
 
 
