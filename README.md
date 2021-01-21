@@ -7,9 +7,10 @@
 - 💬 Ask me about my Weekly newsletter called [Telegraph Tales](https://www.getrevue.co/profile/siddhant-chauhan) and my [Podcast](https://anchor.fm/pure-entropy)
 - 📫 How to reach me: 
   
-    [Twitter](https://twitter.com/Sidd_z_chauhan)/n
-    [My Website](https://www.siddhantchauhan.com/)
-- ⚡ Fun fact: I am a freelance photographer and videographer focusing on portraits, events and lifestyle concepts
+- [Twitter](https://twitter.com/Sidd_z_chauhan)
+- [My Website](https://www.siddhantchauhan.com/)
+
+- ⚡ **Fun fact: I am a freelance photographer and videographer focusing on portraits, events and lifestyle concepts
 
 
 
