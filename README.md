@@ -18,7 +18,7 @@
 
 
 ### [Advanced Predictive Modeling](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/APM(Advanced%20Predictive%20Modeling))
-- __Getting Sentimental__ - BERT Model Project published in [The Startup](https://medium.com/swlh/getting-sentimental-34f69910312c) publication.
+- __[Getting Sentimental](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/APM(Advanced%20Predictive%20Modeling)/APM%20Project/Getting%20Sentimental.pdf)__ - BERT Model Project published in [The Startup](https://medium.com/swlh/getting-sentimental-34f69910312c) publication.
 
 
 ### [Data Management](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Data%20Management) 
