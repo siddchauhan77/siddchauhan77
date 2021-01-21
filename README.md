@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com./) projects.
 - 🤔 I’m looking for help with understanding Web development and creating projects.
 - 💬 Ask me about my Weekly Newsletter called 📧[Telegraph Tales](https://www.getrevue.co/profile/siddhant-chauhan) and my 🎙[Podcast](https://anchor.fm/pure-entropy).
+- ⚡ **Fun fact**: I am a freelance 📸[Photographer](https://www.instagram.com/sidd_z_chauhan/) focusing on Portraits, Graduation, Events and lifestyle concepts. Currently building my Zettlekasten.
 <!-- Actual text -->
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
@@ -18,8 +19,6 @@
 [1]: https://twitter.com/Sidd_z_chauhan
 [2]: https://www.linkedin.com/in/siddhant-c-177ba0108/
   
-- ⚡ **Fun fact**: I am a freelance 📸[Photographer](https://www.instagram.com/sidd_z_chauhan/) focusing on Portraits, Graduation, Events and lifestyle concepts. Currently building my Zettlekasten.
-
 ### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) #OpentoWork
 
 -------------------------------------------------------------------------------------------------------
