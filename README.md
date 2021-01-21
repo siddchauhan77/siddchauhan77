@@ -10,7 +10,7 @@
 - [Twitter](https://twitter.com/Sidd_z_chauhan)
 - [My Website](https://www.siddhantchauhan.com/)
 
-- ⚡ **Fun fact: I am a freelance photographer and videographer focusing on portraits, events and lifestyle concepts
+- ⚡ **Fun fact**: I am a freelance photographer and videographer focusing on portraits, events and lifestyle concepts
 
 
 
