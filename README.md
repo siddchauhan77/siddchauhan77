@@ -1,4 +1,7 @@
-# Hi there, I'm Sidd 👋
+# Hi there, I'm Sidd 👋 
+
+- 🌐[My Website](https://www.siddhantchauhan.com/)
+
 
 - 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021.
 - 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models.
@@ -21,9 +24,6 @@ You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/Sidd_z_chauhan
 [2]: https://www.linkedin.com/in/siddhant-c-177ba0108/
   
-- 🕊[Twitter](https://twitter.com/Sidd_z_chauhan)
-- 🌐[My Website](https://www.siddhantchauhan.com/)
-
 - ⚡ **Fun fact**: I am a freelance 📸[Photographer](https://www.instagram.com/sidd_z_chauhan/)and 📽Videographer focusing on portraits, events and lifestyle concepts
 
 ### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) #OpentoWork
