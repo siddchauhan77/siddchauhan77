@@ -7,9 +7,7 @@
 - 🤔 I’m looking for help with understanding Web development and creating projects.
 - 💬 Ask me about my Weekly Newsletter called 📧[Telegraph Tales](https://www.getrevue.co/profile/siddhant-chauhan) and my 🎙[Podcast](https://anchor.fm/pure-entropy).
 <!-- Actual text -->
-
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
