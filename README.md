@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**siddchauhan77/siddchauhan77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 - 🔭 I’m currently working on building my digital garden and finishign my MS program.
 - 🌱 I’m currently learning blockchain, Fin-Tech, stochastic optimization and structures and Time series models
 - 👯 I’m looking to collaborate on Notion, Roam Research projects.
