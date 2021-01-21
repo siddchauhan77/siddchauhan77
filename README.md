@@ -1,6 +1,6 @@
 ## Hi there, I'm Sidd 👋
 
-- 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics).
+- 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021.
 - 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models.
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com./) projects.
 - 🤔 I’m looking for help with understanding Web development and creating projects.
@@ -12,7 +12,7 @@
 
 - ⚡ **Fun fact**: I am a freelance 📸[Photographer](https://www.instagram.com/sidd_z_chauhan/)and 📽Videographer focusing on portraits, events and lifestyle concepts
 
-### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin)
+### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) #OpentoWork
 
 
 
