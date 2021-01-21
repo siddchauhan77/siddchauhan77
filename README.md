@@ -2,9 +2,6 @@
 
 - Links: https://linqapp.com/siddhant_chauhan
 
-[QR](https://github.com/siddchauhan77/siddchauhan77/blob/main/linq-qrcode.png)
-
-
 - 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021.
 - 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models.
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com./) projects.
