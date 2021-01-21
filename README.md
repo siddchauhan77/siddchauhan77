@@ -14,6 +14,8 @@
 
 ### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) #OpentoWork
 
+- Getting Sentimental - BERT Model Project published in [The Startup](https://medium.com/swlh/getting-sentimental-34f69910312c) publication.
+
 
 
 
