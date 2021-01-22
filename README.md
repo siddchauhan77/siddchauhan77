@@ -33,7 +33,7 @@
 - [Modeling Amazon Call Center, Warehouse, Inventory Management and implementing within a Data Lake Spark](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Data%20Management/Data%20Management%20Project/Data%20Management%20Project.pdf).
 
 ### 🔸[Text Analysis](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis) 
-- [Natural Language Processong on XBOX and PS%](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis/Text%20Analysis%20Project).
+- [Natural Language Processong on XBOX and PS5](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis/Text%20Analysis%20Project).
 - [Latent Topic Modeling](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/TextAnalysis/Instagram_zara.ipynb)
 
 ### 🔸[Data Analytics](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Data%20Analytics%20-%20Summer)
