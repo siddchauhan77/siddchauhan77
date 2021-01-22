@@ -33,11 +33,12 @@
 - [Modeling Amazon Call Center, Warehouse, Inventory Management and implementing within a Data Lake Spark](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Data%20Management/Data%20Management%20Project/Data%20Management%20Project.pdf).
 
 ### 🔸[Text Analysis](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis) 
-- [Predicting the similarities and common sentiment associated with the launch of new XBOX and PS5](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis/Text%20Analysis%20Project).
+- [Natural Language Processong on XBOX and PS%](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/TextAnalysis/Text%20Analysis%20Project).
+- [Latent Topic Modeling](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/TextAnalysis/Instagram_zara.ipynb)
 
 ### 🔸[Data Analytics](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Data%20Analytics%20-%20Summer)
 
-- [Predicting the popularity of a song using different properties from Spotify Top 100 Songs across the decade](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Data%20Analytics%20-%20Summer/DA%20-%20Spotify%20Project/Spotify_Group_Project.pdf).
+- [Classification & Prediction of song's popularity using its features](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Data%20Analytics%20-%20Summer/DA%20-%20Spotify%20Project/Spotify_Group_Project.pdf).
 
 ### 🔸[Predictive Modeling](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/Predictive%20Modeling%20-Summer)
 - [Airbnb Price Prediction in NYC](https://github.com/siddchauhan77/MSBA-UT-Austin/blob/main/Predictive%20Modeling%20-Summer/Airbnb%20in%20NYC%20Prices.pdf).
