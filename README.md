@@ -48,6 +48,7 @@
 ## Links: [Connect With Me😃](https://linqapp.com/siddhant_chauhan)
 
 
+My Tableau Projects -> https://public.tableau.com/profile/sidd.chauhan#!/
 
 Interested in learning about new technology and applications?
 __Check out__ [PaperswithCode](https://paperswithcode.com/)
