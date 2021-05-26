@@ -1,10 +1,12 @@
 # Hi there, I'm Sidd 👋 
 
+### Graduated from Texas A&M ( Bachelors) || UT Austin McCombs School of Business ( MS )
+
 
 - 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021.
 - 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models and visualizations in [Tableau](https://public.tableau.com/profile/sidd.chauhan#!/?newProfile=&activeTab=0).
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com./) projects.
-- 🤔 I’m looking for help with understanding Web development and creating projects.
+- 🤔 I’m looking for help with understanding AI development and creating projects.
 - 💬 Ask me about my Weekly Newsletter called 📧[Telegraph Tales](https://www.getrevue.co/profile/siddhant-chauhan) and my 🎙[Podcast](https://anchor.fm/pure-entropy).
 - ⚡ **Fun fact**: I am a freelance 📸[Photographer](https://www.instagram.com/sidd_z_chauhan/) focusing on Portraits, Graduation, Events and lifestyle concepts. 
 
