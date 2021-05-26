@@ -28,7 +28,7 @@
 ### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) #OpentoWork
 
 -------------------------------------------------------------------------------------------------------
-- 🌐[My Website](https://www.siddhantchauhan.com/)
+- 🌐[Siddhantchauhan.com](https://www.siddhantchauhan.com/)
 -------------------------------------------------------------------------------------------------------
 
 ### 🔸[Advanced Predictive Modeling](https://github.com/siddchauhan77/MSBA-UT-Austin/tree/main/APM(Advanced%20Predictive%20Modeling))
