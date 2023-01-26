@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021. - TO BE UPDATED SOON!
-- 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models and visualizations in [Tableau](https://public.tableau.com/profile/sidd.chauhan#!/?newProfile=&activeTab=0).
+- 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models and visualizations in [Tableau](https://public.tableau.com/profile/sidd.chauhan#!/?newProfile=&activeTab=0) and PowerBI
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com./) projects.
 - 🤔 I’m looking for help with understanding AI development and creating projects.
 - 💬 Ask me about my Weekly Newsletter called 📧[Telegraph Tales](https://www.getrevue.co/profile/siddhant-chauhan) and my 🎙[Podcast](https://anchor.fm/pure-entropy).
