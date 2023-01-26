@@ -3,7 +3,7 @@
 ### Graduated from Texas A&M ( Bachelors) || UT Austin McCombs School of Business ( MS )
 
 
-- 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021.
+- 🔭 I’m currently working on building my Digital garden and finishing my [MS program](https://www.mccombs.utexas.edu/Master-of-Science-in-Business-Analytics) by May 2021. - TO BE UPDATED SOON!
 - 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models and visualizations in [Tableau](https://public.tableau.com/profile/sidd.chauhan#!/?newProfile=&activeTab=0).
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), [Roam Research](https://roamresearch.com./) projects.
 - 🤔 I’m looking for help with understanding AI development and creating projects.
