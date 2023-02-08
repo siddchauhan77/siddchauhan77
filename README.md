@@ -23,7 +23,7 @@
 [1]: https://twitter.com/Sidd_z_chauhan
 [2]: https://www.linkedin.com/in/siddhant-c-177ba0108/
   
-### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) #OpentoWork
+### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) 
 
 -------------------------------------------------------------------------------------------------------
 - 🌐  [Siddhantchauhan.com](https://www.siddhantchauhan.com/)
