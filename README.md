@@ -1,6 +1,6 @@
 # Hi there, I'm Sidd Chauhan👋 
 
-### Alma Maters Texas A&M (B.S.) || UT Austin McCombs School of Business ( M.Sc ) || Currently Working FULL-TIME
+### Alma Maters Texas A&M (B.S.) || UT Austin McCombs School of Business ( M.Sc ) || Currently Looking for FULL-TIME Roles
 
 
 - 🔭 I’m currently working on building my Digital garden.
