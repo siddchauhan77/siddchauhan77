@@ -4,23 +4,21 @@
 
 
 - 🔭 I’m currently working on building my Digital garden.
-- 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization and Time series models and visualizations in [Tableau](https://public.tableau.com/profile/sidd.chauhan#!/?newProfile=&activeTab=0) and PowerBI
+- 🌱 I’m currently learning about Blockchain, Fin-Tech, Stochastic Optimization, and Time series models and visualizations in [Tableau](https://public.tableau.com/profile/sidd.chauhan#!/?newProfile=&activeTab=0) and PowerBI
 - 👯 I’m looking to collaborate on [Notion](https://www.notion.so/), Obisdian projects.
 - 🤔 I’m looking for help with understanding AI development and creating projects.
-- 💬 Ask me about my Weekly Newsletter called 📧[Telegraph Tales](https://www.getrevue.co/profile/siddhant-chauhan) and my 🎙[Podcast](https://anchor.fm/pure-entropy).
-- ⚡ **Fun fact**: I am a freelance 📸[Photographer](https://www.instagram.com/sidd_z_chauhan/) focusing on Portraits, Graduation, Events and lifestyle concepts. 
+- 💬 Ask me about my [Newsletter](https://siddhantchauhan.substack.com/) and my 🎙[Podcast](https://anchor.fm/pure-entropy).
+- ⚡ **Fun fact**: I am a freelance 📸[Photographer and Videographer](https://www.instagram.com/sidd_z_chauhan/) focusing on Portraits, Graduation, Events and lifestyle concepts. 
 
 
 <!-- Actual text -->
 - 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
-[1]: https://twitter.com/Sidd_z_chauhan
 [2]: https://www.linkedin.com/in/siddhant-c-177ba0108/
   
 ### Check out my recent projects: [MSBA Projects](https://github.com/siddchauhan77/MSBA-UT-Austin) 
