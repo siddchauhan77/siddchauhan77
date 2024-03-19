@@ -11,9 +11,8 @@
 - ⚡ **Fun fact**: I am a freelance 📸[Photographer and Videographer](https://www.instagram.com/sidd_z_chauhan/) focusing on Portraits, Graduation, Events and lifestyle concepts. 
 
 
-<!-- Actual text -->
-- 📫 You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2].
-<!-- Icons -->
+
+
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
