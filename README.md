@@ -3,7 +3,7 @@
 
 <p align="center">
   <b>Analyst · Builder · Creator</b><br/>
-  UT Austin McCombs MSBA &nbsp;·&nbsp; Texas A&M B.S. &nbsp;·&nbsp; Austin, TX
+  UT Austin McCombs MSBA &nbsp;·&nbsp; Texas A&M B.S. Public Health &nbsp;·&nbsp; Executive Specialization in Product Management; Austin, TX
 </p>
 
 <p align="center">
@@ -28,9 +28,9 @@
 
 ## About
 
-I turn data into decisions and ideas into finished products. My background spans enterprise BI, financial intelligence, predictive modeling, and AI-enabled automation — grounded in a formal MSBA from UT Austin McCombs. Outside of analytics I write a weekly newsletter, build email sequences and sales enablement tools, and do freelance photography and video.
+I turn data into decisions and ideas into finished products. My background spans enterprise BI, financial intelligence, predictive modeling, and AI-enabled automation — grounded in a formal MSBA from UT Austin McCombs. On the creative side I'm a trained ghostwriter and email strategist (Premium Ghostwriting Academy), a YouTube-trained video creator (Ali Abdaal's PTYA), and currently studying paid social creative strategy (Motion Bootcamp). I also shoot and edit video under Entropy Studios and write a weekly newsletter.
 
-Currently open to full-time roles in **data analytics, business intelligence, and AI operations.**
+Currently open to full-time roles in **data analytics, business intelligence, AI operations, product management, and content strategy.**
 
 ---
 
@@ -106,6 +106,16 @@ Six domains of graduate-level ML and analytics work. One project published exter
 
 ---
 
+### Externships
+
+| Program | Company | Role | Focus |
+|---------|---------|------|-------|
+| AI Automation Externship | Wayfair | AI Automation Analyst | Built AI agents with n8n — moodboard generator, competitor analysis agent, integration dashboard |
+| Brand & Content Strategy Externship | TikTok | Content Strategist | Short-form content strategy, platform analytics, brand positioning |
+| Product Management Externship | News Corp / NY Post App | Product Manager | Product discovery, feature prioritization, user journey mapping for the NY Post app |
+
+---
+
 ### AI Builder Sprint (Late 2025)
 
 A fast run of shipped apps built in Google AI Studio:
@@ -133,10 +143,35 @@ A fast run of shipped apps built in Google AI Studio:
 ```
 Analytics & BI      SAP Analytics Cloud · Tableau · Power BI · Recharts · Python (pandas, sklearn, BERT)
 Engineering         Next.js · TypeScript · React · Express · Node.js · SQL · Apache Spark
-AI & Automation     Claude Code · Agentic pipelines · Prompt engineering · Google Gemini · AI Studio
+AI & Automation     Claude Code · n8n · Lindy.ai · Relevance.ai · Relay.app · Google Gemini · AI Studio · HeyGen
+No-Code / Low-Code  Replit · Loveable · Base44 · Make (Integromat) · Notion (power user)
 Data               D3.js · NetworkX · Drizzle ORM · SEC/market data APIs · R
-Creative           Photography · Videography · DaVinci Resolve · Screen Studio
+Video & Creative    DaVinci Resolve · Screen Studio · HeyGen · Short-form editing (Cut30) · Photography
+Writing            Email sequences · Ghostwriting · Newsletter writing · Copywriting · Outbound copy
 ```
+
+---
+
+## Courses & Training
+
+### Creator & Content
+| Program | Provider | Focus | Status |
+|---------|----------|-------|--------|
+| Part-Time YouTuber Academy (PTYA) | Ali Abdaal | YouTube strategy, scripting, systems, channel growth | ✅ Completed |
+| Premium Ghostwriting Academy | Nicholas Cole / Dickie Bush | Copywriting, email sequences, ghostwriting for creators & executives | ✅ Completed |
+| Motion Creative Strategy Bootcamp | Motion | Paid social creative strategy, ad performance, creative testing frameworks | 🔄 In Progress |
+| Cut30 Bootcamp | Cut30 | Short-form video editing for creators and brands | 🔄 In Progress |
+| 100 Kolder Creative — DaVinci Course | Sam Kolder | Cinematic video editing, DaVinci Resolve, storytelling | ✅ Completed |
+| HeyGen AI Video Bootcamp | HeyGen | AI-generated video, avatar workflows, video strategy for 2026 | ✅ Completed |
+| 4-Hour Copywriting & Outbound Course | — | Direct response copywriting, outbound sales copy | ✅ Completed |
+
+### Product & AI
+| Program | Provider | Focus | Status |
+|---------|----------|-------|--------|
+| Antigravity for PMs | Antigravity | AI-native product management, AI tools for PMs | ✅ Completed |
+| Maven AI PM x No-Code Bootcamp | Maven | AI product management, no-code tools | ✅ Completed |
+| AI Automation Agency | — | Building and deploying AI automation agencies | ✅ Completed |
+| 100 Days of NoCode (AI x NoCode) | — | AI-integrated no-code workflows and automation | ✅ Completed |
 
 ---
 
@@ -144,11 +179,13 @@ Creative           Photography · Videography · DaVinci Resolve · Screen Studi
 
 **[Drafts to Done](https://draftstodone.substack.com)** — Weekly newsletter for creators stuck at 90%. Practical clarity tips to help you finish and publish without overthinking or burnout. Running since October 2024.
 
-**Email Sequences & Sales Enablement** — Building conversion-focused email workflows and proof-point libraries for creators and service businesses. See [Proof Bank →](https://proof-bank.vercel.app)
+**Ghostwriting & Email Sequences** — Trained at Premium Ghostwriting Academy (Nicholas Cole / Dickie Bush). Write conversion-focused email sequences, newsletters, and long-form content for creators and service businesses. See [Proof Bank →](https://proof-bank.vercel.app)
 
-**Photography & Videography** — Freelance portraits, events, and commercial work under Bino Productions.
+**YouTube & Video Strategy** — Trained via Ali Abdaal's Part-Time YouTuber Academy. Scripting, systems, and strategy for long-form video. Also produce and edit short-form content for Instagram, TikTok, and YouTube.
 
-**Content Creation** — Writing, scripting, and distributing content across long and short-form formats.
+**Creative Strategy** — Currently studying paid social creative strategy and ad performance frameworks via the Motion Creative Strategy Bootcamp.
+
+**Photography & Videography** — Freelance portraits, events, and commercial work under Entropy Studios.
 
 ---
 
