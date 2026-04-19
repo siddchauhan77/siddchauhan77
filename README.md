@@ -3,6 +3,7 @@
 
 <p align="center">
   <b>Analyst · Builder · Creator</b><br/>
+  <i>Technical enough to build it. Creative enough to sell it. Obsessive enough to make it look good.</i><br/><br/>
   UT Austin McCombs MSBA &nbsp;·&nbsp; Texas A&M B.S. Public Health &nbsp;·&nbsp; Executive Specialization in Product Management; Austin, TX
 </p>
 
