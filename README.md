@@ -14,6 +14,9 @@ My work sits where product thinking, data, and communication meet. The through-l
 • [AI Safety Exodus Tracker](https://github.com/siddchauhan77/ai-safety-exodus-tracker)  
   A public tracker for researching departures from frontier AI labs, built with Next.js, TypeScript, Vitest, and Playwright.
 
+• [BarkBox Personalization Case Study](https://barkbox-personalization-case-study-0823.what-if-history.chatgpt.site)  
+  A source-labeled course-based product strategy simulation covering research, product requirements, and launch measurement.
+
 • [MSBA-UT-Austin](https://github.com/siddchauhan77/MSBA-UT-Austin)  
   Graduate analytics and machine-learning work across NLP, forecasting, optimization, and data engineering.
 
