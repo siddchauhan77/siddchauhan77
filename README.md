@@ -1,49 +1,51 @@
 # Sidd Chauhan
 
-## I build trustworthy AI systems for messy decisions.
+## I turn messy customer and operational context into AI systems teams can inspect, approve, and act on.
 
-Most AI work fails in the handoff between raw information and a real decision. I build systems that make the evidence visible, expose failure modes, and move a person toward a useful next action.
+I work in the handoff between a user's messy reality and a technical system that has to behave reliably. I translate the workflow into data contracts, evaluations, human review gates, and evidence a decision owner can inspect.
 
-My work follows one operating principle:
+I'm targeting AI Solutions Engineer, Forward Deployed Engineer, and AI Implementation roles. I do my best work close to the customer, close to the data, and accountable for whether the workflow holds up.
 
-> Start with messy inputs. Add evidence, guardrails, and a clear product surface. End with a decision a team can inspect and act on.
+[Portfolio](https://siddchauhan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Writing](https://draftstodone.substack.com)
 
-I am pursuing full-time roles in forward-deployed engineering, applied AI, AI operations, and technical product work.
+## 3 systems worth inspecting
 
-### Proof of the operating principle
+### Enterprise Customer Launch Agent
 
-- [Complaint Triage Reliability Harness](https://github.com/siddchauhan77/complaint-triage-harness) | [Live writeup](https://complaint-triage-harness.vercel.app)  
-  Makes model risk visible. An offline LLM evaluation harness using 13,991 public CFPB complaints, eight predeclared failure modes, confidence intervals, and explicit limitations.
+[Repository](https://github.com/siddchauhan77/enterprise-customer-launch-agent) | [Live demo](https://enterprise-customer-launch-agent.vercel.app)
 
-- [AI Website Production System](https://github.com/siddchauhan77/ai-website-production-system) | [Live product](https://ai-website-production-system.vercel.app)  
-  Keeps generated output fact-grounded. A specification-driven website workflow with a sourced fact registry, deterministic generation, validation, and a machine-readable QA report.
+Models the high-risk parts of a 10,000-record CRM launch: invalid data, scope drift, unapproved writes, interrupted jobs, duplicate retries, and rollback.
 
-- [Slack Marketing Asset Generator](https://github.com/siddchauhan77/slack-marketing-asset-generator) | [Interactive demo](https://slack-marketing-asset-generator.vercel.app)  
-  Turns a business request into reviewed work safely. Includes request-signature validation, retry deduplication, unsafe-URL checks, cited brand briefs, and review-ready asset directions.
+The workflow profiles source data, quarantines invalid rows, fingerprints the approved scope, runs idempotent mock writes, resumes after interruption, and emits audit receipts. It uses fictional data and a Salesforce-compatible mock adapter, with no claim of real Salesforce access or customer deployment.
 
-- [FunnelTeardown AI](https://github.com/siddchauhan77/funnel-teardown) | [Live product](https://funnel-teardown.vercel.app)  
-  Converts scattered web evidence into a usable growth decision. Uses typed agent state, source links, an offer ladder, a diagnostic scorecard, exportable reports, and cost tracking.
+### Complaint Triage Reliability Harness
 
-- [AI Code Report Card](https://github.com/siddchauhan77/ai-code-report-card) | [Interactive audit](https://ai-code-report-card.vercel.app)  
-  Turns source code into one clear remediation decision. A local-first quality product with deterministic checks, stable finding IDs, line-level findings, and prioritized next steps.
+[Repository](https://github.com/siddchauhan77/complaint-triage-harness) | [Live writeup](https://complaint-triage-harness.vercel.app)
 
-### The same thread in product and analytics work
+Built on 13,991 public CFPB complaints. The harness declared 8 failure modes before implementation and detected all 5 failures that manifested.
 
-- [AI Safety Exodus Tracker](https://github.com/siddchauhan77/ai-safety-exodus-tracker)  
-  Primary-source research tracker for frontier-lab departures. Evidence before narrative.
+One test held product classification at 71.0% while legal-threat detection collapsed to 19.4% and model confidence stayed near 0.96. The system exposed silent upstream information loss that aggregate accuracy hid. This is an offline evaluation with stated label, sample-size, and deployment limitations.
 
-- [BarkBox Personalization Case Study](https://barkbox-personalization-case-study-0823.what-if-history.chatgpt.site)  
-  Course-based product strategy simulation. Customer context becomes a scoped recommendation flow, measurement plan, and explicit claim boundary.
+### NYC Mobility Operations
 
-- [SAP Sustainability Dashboard](https://github.com/siddchauhan77/sap-sac-sustainability-dashboard) | [Live dashboard](https://sap-sac-dashboard.vercel.app)  
-  Demonstration dashboard for sustainability, energy, retail, and executive decision views.
+[Repository](https://github.com/siddchauhan77/nyc-mobility-operations) | [Live case study](https://nyc-mobility-operations.vercel.app)
 
-### Working range
+Turns 3,724,889 official NYC taxi records into a smaller, explainable review queue.
 
-Applied AI evaluation | AI operations | decision-support systems | product analytics | workflow automation | technical storytelling
+The pipeline reduced 8,423 first-pass alerts to 436 evidence-linked review prompts, a 94.8% reduction, and passed 8/8 deterministic tests. It proves data controls, provenance, anomaly scoring, and human-review boundaries. It does not claim operator adoption, causal impact, or production-service ownership.
 
-### Background
+## More proof
 
-MSBA, UT Austin McCombs. B.S. Public Health, Texas A&M. Based in Austin, Texas.
+| Project | What to inspect |
+| --- | --- |
+| [AI Website Production System](https://ai-website-production-system.vercel.app) | Sourced fact registry, deterministic generation, validation, and machine-readable QA |
+| [FunnelTeardown AI](https://funnel-teardown.vercel.app) | Typed agent state, source-linked analysis, cost tracking, and exportable decision reports |
+| [Creative Strategy Vault](https://creative-strategy-vault.vercel.app/vault.html#sk-index) | Source-labeled research and workflows for audience insight, creative angles, production briefs, and QA |
 
-[LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Drafts to Done](https://draftstodone.substack.com)
+## Background
+
+MSBA, UT Austin McCombs. B.S. Public Health, Texas A&M. Based in Houston, Texas.
+
+## Contact
+
+If you're hiring for AI solutions or implementation work, or building an AI workflow with messy data and risky handoffs, message me on [LinkedIn](https://www.linkedin.com/in/siddchauhan77/). Start with the workflow, its user, and the failure you worry about most.
