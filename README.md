@@ -4,7 +4,7 @@
 
 Sometimes the mess is 3.7 million taxi records. Sometimes it is a CRM launch that fails halfway through. Sometimes it is a brand with plenty of content and no clear funnel.
 
-My work crosses AI implementation, product and GTM strategy, analytics, and creative strategy. The repeated move is the same: find the costly decision, structure the evidence, build the working system, test the risky handoffs, and explain what the result does and does not prove.
+My work crosses AI implementation, product and GTM strategy, analytics, lifecycle writing, and creative strategy. The repeated move is the same: find the costly decision, structure the evidence, build the working system, test the risky handoffs, and explain what the result does and does not prove.
 
 [Portfolio](https://siddchauhan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Writing](https://draftstodone.substack.com)
 
@@ -59,6 +59,44 @@ The work moves from audience tension and market evidence to an angle, production
 A fan-made content discovery product built from 40 crawled URLs, roughly 14,000 lines of source material, and 45 attributed entries from Shaan Puri's public writing.
 
 It turns a static archive into three coherent experiences: editorial scrollytelling, an oracle card, and a five-question diagnostic that routes readers to relevant source material. The companion Uncle Sam deployment shows the content system can transfer to a second archive without pretending the two builds are separate flagship ideas.
+
+## Email and ghostwriting systems
+
+Email is not one more content format. It is the owned system that turns borrowed attention into permission, education, trust, and an offer.
+
+```text
+Founder expertise or customer insight
+                |
+                v
+       Educational email course
+                |
+                v
+       Welcome and nurture sequence
+                |
+                v
+      Newsletter and social excerpts
+                |
+                v
+       Offer, reply, or sales call
+                |
+                v
+      Conversion and retention signals
+```
+
+I build three connected assets for founder-led businesses and expert operators:
+
+1. Educational email courses that teach the buyer's problem, reveal the cost of inaction, and lead to one relevant offer.
+2. Founder ghostwriting systems that turn interviews and operating experience into newsletters, LinkedIn posts, and reusable source material.
+3. Lifecycle sequences for welcome, onboarding, nurture, launch, and reactivation moments.
+
+| Working proof | What it demonstrates |
+| --- | --- |
+| [EEC and Ghostwriting Proof Bank](https://proof-bank.vercel.app) | A source-linked research and objection-handling library across educational email courses, newsletters, and social ghostwriting |
+| [Copywriting Vault](https://copywriting-vault.vercel.app) | A searchable system of 697 principles, frameworks, and writer voices, plus templates for email, landing pages, outreach, and sales pages |
+| [Drafts to Done](https://draftstodone.substack.com) | My owned publishing channel and the distribution surface for practical writing lessons |
+| [Build Travel Tribe](https://buildtraveltribe.com) | An existing publication that can serve as the live reactivation case for an EEC, newsletter, and repurposing system |
+
+The current public assets prove research, writing systems, and strategic judgment. They do not yet prove a client EEC launch, attributable conversion lift, or ghostwriting revenue.
 
 ## Role-specific proof
 
