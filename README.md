@@ -1,10 +1,10 @@
 # Sidd Chauhan
 
-## I turn messy customer, data, and market context into evidence-backed products and AI systems.
+## I turn messy evidence into systems people use to make decisions.
 
-My work crosses AI implementation, product strategy, analytics, and creative strategy. The through-line is consistent: understand the real problem, structure the evidence, build the working artifact, test the risky handoffs, and explain the decision.
+Sometimes the mess is 3.7 million taxi records. Sometimes it is a CRM launch that fails halfway through. Sometimes it is a brand with plenty of content and no clear funnel.
 
-I am strongest in roles where technical systems meet customers and commercial decisions: AI Solutions and Implementation, Product and Product Marketing, Analytics and Strategy Operations, and Content or Creative Strategy.
+My work crosses AI implementation, product and GTM strategy, analytics, and creative strategy. The repeated move is the same: find the costly decision, structure the evidence, build the working system, test the risky handoffs, and explain what the result does and does not prove.
 
 [Portfolio](https://siddchauhan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Writing](https://draftstodone.substack.com)
 
@@ -40,17 +40,7 @@ An explainable anomaly-review system built from 3,724,889 official NYC taxi reco
 
 The pipeline reduced 8,423 first-pass alerts to 436 evidence-linked review prompts, a 94.8% reduction, and passed 8/8 deterministic tests. It demonstrates data contracts, provenance, anomaly scoring, and human-review boundaries. It does not claim operator adoption or causal business impact.
 
-### 4. BarkBox Personalization Case Study
-
-**Product management and product marketing**
-
-[Repository](https://github.com/siddchauhan77/barkbox-personalization-case-study) | [Interactive case study](https://barkbox-personalization-case-study-0823.what-if-history.chatgpt.site/)
-
-An independent product case study that moves from customer friction to a bounded personalization decision: an editable dog profile, exclusion rules, explainable recommendations, and one-tap feedback.
-
-The work includes a source trail, four-screen product flow, PRD scope, launch logic, and measurement plan. It demonstrates product judgment and GTM translation. It is not BarkBox client work, a live product launch, or evidence of retention impact.
-
-### 5. Creative Strategy Portfolio
+### 4. Creative Strategy Portfolio
 
 **Content, brand, and creative strategy**
 
@@ -58,15 +48,26 @@ The work includes a source trail, four-screen product flow, PRD scope, launch lo
 
 Four research-backed brand cases across CeraVe, HelloFresh, Oura, and Caraway, plus client strategy and campaign teardown work.
 
-The portfolio separates sourced evidence, strategic inference, and speculative creative work. It moves from audience tension and market evidence to an angle, production brief, test plan, and QA criteria. Public ad observations show what brands tested, not spend, ROAS, or winners.
+The work moves from audience tension and market evidence to an angle, production brief, test plan, and QA criteria. The Caraway case codes 28 active ads before proposing tests. Evidence, inference, and speculative creative work stay visibly separate.
 
-## Additional technical proof
+### 5. Uncle Shaan
+
+**Editorial product design and interactive storytelling**
+
+[Repository](https://github.com/siddchauhan77/uncle-shaan) | [Live experience](https://uncle-shaan.vercel.app) | [Companion: Uncle Sam](https://uncle-sam-ten.vercel.app)
+
+A fan-made content discovery product built from 40 crawled URLs, roughly 14,000 lines of source material, and 45 attributed entries from Shaan Puri's public writing.
+
+It turns a static archive into three coherent experiences: editorial scrollytelling, an oracle card, and a five-question diagnostic that routes readers to relevant source material. The companion Uncle Sam deployment shows the content system can transfer to a second archive without pretending the two builds are separate flagship ideas.
+
+## Role-specific proof
 
 | Project | What to inspect |
 | --- | --- |
 | [Complaint Triage Reliability Harness](https://github.com/siddchauhan77/complaint-triage-harness) | Predeclared failure modes over 13,991 public CFPB complaints, including upstream information loss hidden by aggregate accuracy |
-| [AI Website Production System](https://ai-website-production-system.vercel.app) | Specification-driven generation, source provenance, deterministic validation, and machine-readable QA |
-| [Creative Strategy Vault](https://creative-strategy-vault.vercel.app/vault.html#sk-index) | Reusable workflows for audience research, angle selection, production briefs, and creative QA |
+| [BarkBox Personalization Case Study](https://github.com/siddchauhan77/barkbox-personalization-case-study) | Customer friction translated into an editable profile, exclusion rules, explainable recommendations, a PRD, launch logic, and a measurement plan |
+| [MSBA at UT Austin](https://github.com/siddchauhan77/MSBA-UT-Austin) | Graduate work across NLP, Spark, forecasting, optimization, network analysis, blockchain, and predictive modeling, including a RoBERTa project published externally |
+| [Data Science Projects Lab](https://github.com/siddchauhan77/Datascience-Projects-Lab) | Independent ML, forecasting, conversational AI, and Tableau work that shows the analytical foundation beneath the newer decision systems |
 
 ## How I work
 
@@ -81,4 +82,4 @@ MSBA, UT Austin McCombs. B.S. Public Health, Texas A&M. Based in Houston, Texas.
 
 ## Contact
 
-If you are hiring for AI implementation, product and GTM, analytics, or creative strategy work, message me on [LinkedIn](https://www.linkedin.com/in/siddchauhan77/). Start with the user, the decision, and the problem worth solving.
+If your team has a messy customer, operational, data, or market decision, message me on [LinkedIn](https://www.linkedin.com/in/siddchauhan77/). Tell me where the current process breaks.
