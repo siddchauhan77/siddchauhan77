@@ -94,7 +94,7 @@ I build three connected assets for founder-led businesses and expert operators:
 | [EEC and Ghostwriting Proof Bank](https://proof-bank.vercel.app) | A source-linked research and objection-handling library across educational email courses, newsletters, and social ghostwriting |
 | [Copywriting Vault](https://copywriting-vault.vercel.app) | A searchable system of 697 principles, frameworks, and writer voices, plus templates for email, landing pages, outreach, and sales pages |
 | [Drafts to Done](https://draftstodone.substack.com) | My owned publishing channel and the distribution surface for practical writing lessons |
-| [Build Travel Tribe](https://buildtraveltribe.com) | An existing publication that can serve as the live reactivation case for an EEC, newsletter, and repurposing system |
+| [Build Travel Tribe](https://buildtraveltribe.com) | A historical self-directed publication and six-email Kit course now being audited and remapped; travel is not assumed to be the current buyer niche |
 
 The current public assets prove research, writing systems, and strategic judgment. They do not yet prove a client EEC launch, attributable conversion lift, or ghostwriting revenue.
 
