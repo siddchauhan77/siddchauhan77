@@ -1,10 +1,10 @@
 # Sidd Chauhan
 
-## I turn messy evidence into systems people use to make decisions.
+## I build systems that turn messy evidence and expert knowledge into decisions, customers, and revenue.
 
 Sometimes the mess is 3.7 million taxi records. Sometimes it is a CRM launch that fails halfway through. Sometimes it is a brand with plenty of content and no clear funnel.
 
-My work crosses AI implementation, product and GTM strategy, analytics, lifecycle writing, and creative strategy. The repeated move is the same: find the costly decision, structure the evidence, build the working system, test the risky handoffs, and explain what the result does and does not prove.
+I'm an AI product builder and full-stack email marketer. My work crosses AI implementation, product and GTM strategy, analytics, lifecycle writing, and creative strategy. The repeated move is the same: find the costly decision, structure the evidence, build the working system, test the risky handoffs, and explain what the result does and does not prove.
 
 [Portfolio](https://siddchauhan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Writing](https://draftstodone.substack.com)
 
@@ -60,9 +60,11 @@ A fan-made content discovery product built from 40 crawled URLs, roughly 14,000 
 
 It turns a static archive into three coherent experiences: editorial scrollytelling, an oracle card, and a five-question diagnostic that routes readers to relevant source material. The companion Uncle Sam deployment shows the content system can transfer to a second archive without pretending the two builds are separate flagship ideas.
 
-## Email and ghostwriting systems
+## Full-stack email marketing and ghostwriting
 
 Email is not one more content format. It is the owned system that turns borrowed attention into permission, education, trust, and an offer.
+
+I work across the full path: audience research, positioning, opt-in offer, sequence architecture, copy, delivery logic, newsletter operations, social repurposing, and measurement.
 
 ```text
 Founder expertise or customer insight
@@ -83,11 +85,13 @@ Founder expertise or customer insight
       Conversion and retention signals
 ```
 
-I build three connected assets for founder-led businesses and expert operators:
+I build connected assets for founder-led businesses and expert operators:
 
-1. Educational email courses that teach the buyer's problem, reveal the cost of inaction, and lead to one relevant offer.
-2. Founder ghostwriting systems that turn interviews and operating experience into newsletters, LinkedIn posts, and reusable source material.
-3. Lifecycle sequences for welcome, onboarding, nurture, launch, and reactivation moments.
+1. Educational email courses and lead magnets that teach the buyer's problem, reveal the cost of inaction, and lead to one relevant offer.
+2. Lifecycle sequences for welcome, onboarding, nurture, launch, sales, retention, and reactivation.
+3. Newsletter ghostwriting that turns founder interviews and operating experience into useful recurring issues.
+4. Social ghostwriting that repurposes the same source material into LinkedIn posts and other distribution assets.
+5. Measurement plans that connect opens, clicks, replies, conversions, unsubscribes, and complaints to the next editorial or funnel decision.
 
 | Working proof | What it demonstrates |
 | --- | --- |
@@ -95,6 +99,8 @@ I build three connected assets for founder-led businesses and expert operators:
 | [Copywriting Vault](https://copywriting-vault.vercel.app) | A searchable system of 697 principles, frameworks, and writer voices, plus templates for email, landing pages, outreach, and sales pages |
 | [Drafts to Done](https://draftstodone.substack.com) | My owned publishing channel and the distribution surface for practical writing lessons |
 | [Build Travel Tribe](https://buildtraveltribe.com) | A historical self-directed publication and six-email Kit course now being audited and remapped; travel is not assumed to be the current buyer niche |
+
+My relevant training includes Premium Ghostwriting Academy material on educational email courses, newsletter ghostwriting, social ghostwriting, positioning, packaging, outreach, onboarding, and retention. I have translated those methods into reusable workflows and public proof assets. Coursework supports method fluency; it does not substitute for client results.
 
 The current public assets prove research, writing systems, and strategic judgment. They do not yet prove a client EEC launch, attributable conversion lift, or ghostwriting revenue.
 
