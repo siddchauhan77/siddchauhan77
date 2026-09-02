@@ -1,12 +1,17 @@
 # Sidd Chauhan
 
-## I build systems that turn messy evidence and expert knowledge into decisions, customers, and revenue.
+## I turn messy customer problems into AI products and GTM systems people can understand, trust, and use.
 
-Sometimes the mess is 3.7 million taxi records. Sometimes it is a CRM launch that fails halfway through. Sometimes it is a brand with plenty of content and no clear funnel.
+I'm an AI product builder, GTM strategist, and full-stack email marketer with an MS in Business Analytics from UT Austin. I research the problem, structure the evidence, build the workflow, explain the value, and measure what happens next.
 
-I'm an AI product builder and full-stack email marketer. My work crosses AI implementation, product and GTM strategy, analytics, lifecycle writing, and creative strategy. The repeated move is the same: find the costly decision, structure the evidence, build the working system, test the risky handoffs, and explain what the result does and does not prove.
+**Selected proof**
 
-[Portfolio](https://siddchauhan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Writing](https://draftstodone.substack.com)
+- **3,724,889 official NYC taxi records** became 436 evidence-linked review prompts after a 94.8% reduction.
+- **10,000 fictional CRM records** became an approval, retry, rollback, and audit workflow.
+- **28 active ads** became audience insights, creative angles, production briefs, and test plans.
+- **Founder expertise** became educational email courses, lifecycle sequences, newsletters, and social ghostwriting systems.
+
+[Product portfolio](https://siddchauhan.vercel.app) | [Email and writing proof](https://proof-bank.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Newsletter](https://draftstodone.substack.com)
 
 ## Five flagship projects
 
