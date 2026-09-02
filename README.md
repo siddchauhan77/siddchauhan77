@@ -112,6 +112,7 @@ The current public assets prove research, writing systems, and strategic judgmen
 
 | Project | What to inspect |
 | --- | --- |
+| [Wedify Product Archive](https://wedify-product-archive.vercel.app) | A preserved team-product page showing the wedding-planning workflow, Sidd's GTM and product contribution, and a 36-tool MCP integration prototype without presenting the service as active |
 | [Complaint Triage Reliability Harness](https://github.com/siddchauhan77/complaint-triage-harness) | Predeclared failure modes over 13,991 public CFPB complaints, including upstream information loss hidden by aggregate accuracy |
 | [BarkBox Personalization Case Study](https://github.com/siddchauhan77/barkbox-personalization-case-study) | Customer friction translated into an editable profile, exclusion rules, explainable recommendations, a PRD, launch logic, and a measurement plan |
 | [MSBA at UT Austin](https://github.com/siddchauhan77/MSBA-UT-Austin) | Graduate work across NLP, Spark, forecasting, optimization, network analysis, blockchain, and predictive modeling, including a RoBERTa project published externally |
