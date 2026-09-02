@@ -100,7 +100,7 @@ I build connected assets for founder-led businesses and expert operators:
 | [Drafts to Done](https://draftstodone.substack.com) | My owned publishing channel and the distribution surface for practical writing lessons |
 | [Build Travel Tribe](https://buildtraveltribe.com) | A historical self-directed publication and six-email Kit course now being audited and remapped; travel is not assumed to be the current buyer niche |
 
-My relevant training includes Premium Ghostwriting Academy material on educational email courses, newsletter ghostwriting, social ghostwriting, positioning, packaging, outreach, onboarding, and retention. I have translated those methods into reusable workflows and public proof assets. Coursework supports method fluency; it does not substitute for client results.
+The work also draws from systems I have studied and operationalized across Premium Ghostwriting Academy, Nicolas Cole and Dickie Bush, Matt McGarry, Nate Herk and AIS Plus, Nick Saraev, Lenny Rachitsky, Greg Isenberg, creator-strategy programs, and formal analytics training. See the [learning-to-proof ledger](LEARNING-TO-PROOF.md) for the source-to-skill-to-artifact map.
 
 The current public assets prove research, writing systems, and strategic judgment. They do not yet prove a client EEC launch, attributable conversion lift, or ghostwriting revenue.
 
