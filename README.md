@@ -1,19 +1,18 @@
 # Sidd Chauhan
 
-## I turn messy customer problems into AI products and GTM systems people can understand, trust, and use.
+## Information only becomes valuable when it changes what someone does next.
 
-I'm an AI product builder, GTM strategist, and full-stack email marketer with an MS in Business Analytics from UT Austin. I research the problem, structure the evidence, build the workflow, explain the value, and measure what happens next.
+Businesses collect millions of records while the few needing attention stay buried. AI workflows look impressive until dirty data, drifting approvals, or an interrupted job causes them to fail. Founders post every day on social platforms, yet the platform controls the relationship with the audience.
 
-**Selected proof**
+Those are the problems I work on.
 
-- **3,724,889 official NYC taxi records** became 436 evidence-linked review prompts after a 94.8% reduction.
-- **10,000 fictional CRM records** became an approval, retry, rollback, and audit workflow.
-- **28 active ads** became audience insights, creative angles, production briefs, and test plans.
-- **Founder expertise** became educational email courses, lifecycle sequences, newsletters, and social ghostwriting systems.
+I use data to find the patterns that help a team predict, prioritize, and decide. With AI, I build the surrounding workflow for people to review the evidence, approve the action, recover from failure, and measure the result. For growth, I turn customer insight and founder expertise into positioning, email sequences, newsletters, and social content that move people into a channel the business owns.
 
-[Product portfolio](https://siddchauhan.vercel.app) | [Email and writing proof](https://proof-bank.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Newsletter](https://draftstodone.substack.com)
+That has led me to build an anomaly-review system from 3,724,889 NYC taxi records, model a 10,000-record CRM launch, analyze 28 active ads before proposing creative tests, and build full-stack email systems from lead magnet through reactivation.
 
-## Five flagship projects
+[Explore the product and data work](https://siddchauhan.vercel.app) | [See the email and writing systems](https://proof-bank.vercel.app) | [Read my newsletter](https://draftstodone.substack.com) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/)
+
+## Projects
 
 ### 1. Enterprise Customer Launch Agent
 
@@ -109,7 +108,7 @@ The work also draws from systems I have studied and operationalized across Premi
 
 The current public assets prove research, writing systems, and strategic judgment. They do not yet prove a client EEC launch, attributable conversion lift, or ghostwriting revenue.
 
-## Role-specific proof
+## More work
 
 | Project | What to inspect |
 | --- | --- |
