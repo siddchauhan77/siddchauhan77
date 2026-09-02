@@ -1,46 +1,79 @@
 # Sidd Chauhan
 
-## I turn messy customer and operational context into AI systems teams can inspect, approve, and act on.
+## I turn messy customer, data, and market context into evidence-backed products and AI systems.
 
-I work in the handoff between a user's messy reality and a technical system that has to behave reliably. I translate the workflow into data contracts, evaluations, human review gates, and evidence a decision owner can inspect.
+My work crosses AI implementation, product strategy, analytics, and creative strategy. The through-line is consistent: understand the real problem, structure the evidence, build the working artifact, test the risky handoffs, and explain the decision.
 
-I'm targeting AI Solutions Engineer, Forward Deployed Engineer, and AI Implementation roles. I do my best work close to the customer, close to the data, and accountable for whether the workflow holds up.
+I am strongest in roles where technical systems meet customers and commercial decisions: AI Solutions and Implementation, Product and Product Marketing, Analytics and Strategy Operations, and Content or Creative Strategy.
 
 [Portfolio](https://siddchauhan.vercel.app) | [LinkedIn](https://www.linkedin.com/in/siddchauhan77/) | [Writing](https://draftstodone.substack.com)
 
-## 3 systems worth inspecting
+## Five flagship projects
 
-### Enterprise Customer Launch Agent
+### 1. Enterprise Customer Launch Agent
+
+**Enterprise AI implementation**
 
 [Repository](https://github.com/siddchauhan77/enterprise-customer-launch-agent) | [Live demo](https://enterprise-customer-launch-agent.vercel.app)
 
-Models the high-risk parts of a 10,000-record CRM launch: invalid data, scope drift, unapproved writes, interrupted jobs, duplicate retries, and rollback.
+A high-risk CRM launch simulation built around the failures that ordinary demos skip: invalid data, approval drift, interrupted jobs, duplicate retries, and rollback.
 
-The workflow profiles source data, quarantines invalid rows, fingerprints the approved scope, runs idempotent mock writes, resumes after interruption, and emits audit receipts. It uses fictional data and a Salesforce-compatible mock adapter, with no claim of real Salesforce access or customer deployment.
+The system profiles 10,000 fictional records, quarantines invalid rows, fingerprints approved scope, performs idempotent mock writes, resumes after interruption, and emits audit receipts. It demonstrates implementation judgment, not access to a real Salesforce tenant or customer deployment.
 
-### Complaint Triage Reliability Harness
+### 2. FunnelTeardown AI
 
-[Repository](https://github.com/siddchauhan77/complaint-triage-harness) | [Live writeup](https://complaint-triage-harness.vercel.app)
+**AI product, GTM strategy, and agent orchestration**
 
-Built on 13,991 public CFPB complaints. The harness declared 8 failure modes before implementation and detected all 5 failures that manifested.
+[Repository](https://github.com/siddchauhan77/funnel-teardown) | [Live application](https://funnel-teardown.vercel.app)
 
-One test held product classification at 71.0% while legal-threat detection collapsed to 19.4% and model confidence stayed near 0.96. The system exposed silent upstream information loss that aggregate accuracy hid. This is an offline evaluation with stated label, sample-size, and deployment limitations.
+A multi-agent product that turns a company URL into a source-linked stranger-to-advocate journey, scorecard, offer ladder, and exportable decision report.
 
-### NYC Mobility Operations
+It combines typed agent state, provider fallbacks, cost tracking, streaming progress, and structured exports. The interesting part is not generating marketing advice. It is making an open-ended analysis inspectable and usable as a business decision artifact.
 
-[Repository](https://github.com/siddchauhan77/nyc-mobility-operations) | [Live case study](https://nyc-mobility-operations.vercel.app)
+### 3. NYC Mobility Operations
 
-Turns 3,724,889 official NYC taxi records into a smaller, explainable review queue.
+**Analytics, operations, and decision systems**
 
-The pipeline reduced 8,423 first-pass alerts to 436 evidence-linked review prompts, a 94.8% reduction, and passed 8/8 deterministic tests. It proves data controls, provenance, anomaly scoring, and human-review boundaries. It does not claim operator adoption, causal impact, or production-service ownership.
+[Repository](https://github.com/siddchauhan77/nyc-mobility-operations) | [Live case study](https://nyc-mobility-operations.vercel.app/?v=3ps)
 
-## More proof
+An explainable anomaly-review system built from 3,724,889 official NYC taxi records.
+
+The pipeline reduced 8,423 first-pass alerts to 436 evidence-linked review prompts, a 94.8% reduction, and passed 8/8 deterministic tests. It demonstrates data contracts, provenance, anomaly scoring, and human-review boundaries. It does not claim operator adoption or causal business impact.
+
+### 4. BarkBox Personalization Case Study
+
+**Product management and product marketing**
+
+[Repository](https://github.com/siddchauhan77/barkbox-personalization-case-study) | [Interactive case study](https://barkbox-personalization-case-study-0823.what-if-history.chatgpt.site/)
+
+An independent product case study that moves from customer friction to a bounded personalization decision: an editable dog profile, exclusion rules, explainable recommendations, and one-tap feedback.
+
+The work includes a source trail, four-screen product flow, PRD scope, launch logic, and measurement plan. It demonstrates product judgment and GTM translation. It is not BarkBox client work, a live product launch, or evidence of retention impact.
+
+### 5. Creative Strategy Portfolio
+
+**Content, brand, and creative strategy**
+
+[Explore the portfolio](https://sidd-creative-strategy-portfolio.vercel.app/)
+
+Four research-backed brand cases across CeraVe, HelloFresh, Oura, and Caraway, plus client strategy and campaign teardown work.
+
+The portfolio separates sourced evidence, strategic inference, and speculative creative work. It moves from audience tension and market evidence to an angle, production brief, test plan, and QA criteria. Public ad observations show what brands tested, not spend, ROAS, or winners.
+
+## Additional technical proof
 
 | Project | What to inspect |
 | --- | --- |
-| [AI Website Production System](https://ai-website-production-system.vercel.app) | Sourced fact registry, deterministic generation, validation, and machine-readable QA |
-| [FunnelTeardown AI](https://funnel-teardown.vercel.app) | Typed agent state, source-linked analysis, cost tracking, and exportable decision reports |
-| [Creative Strategy Vault](https://creative-strategy-vault.vercel.app/vault.html#sk-index) | Source-labeled research and workflows for audience insight, creative angles, production briefs, and QA |
+| [Complaint Triage Reliability Harness](https://github.com/siddchauhan77/complaint-triage-harness) | Predeclared failure modes over 13,991 public CFPB complaints, including upstream information loss hidden by aggregate accuracy |
+| [AI Website Production System](https://ai-website-production-system.vercel.app) | Specification-driven generation, source provenance, deterministic validation, and machine-readable QA |
+| [Creative Strategy Vault](https://creative-strategy-vault.vercel.app/vault.html#sk-index) | Reusable workflows for audience research, angle selection, production briefs, and creative QA |
+
+## How I work
+
+1. Find the costly decision, failure, or customer friction.
+2. Separate verified evidence from inference and unknowns.
+3. Build the smallest artifact that improves the decision.
+4. Test failure paths, document limits, and make the result inspectable.
 
 ## Background
 
@@ -48,4 +81,4 @@ MSBA, UT Austin McCombs. B.S. Public Health, Texas A&M. Based in Houston, Texas.
 
 ## Contact
 
-If you're hiring for AI solutions or implementation work, or building an AI workflow with messy data and risky handoffs, message me on [LinkedIn](https://www.linkedin.com/in/siddchauhan77/). Start with the workflow, its user, and the failure you worry about most.
+If you are hiring for AI implementation, product and GTM, analytics, or creative strategy work, message me on [LinkedIn](https://www.linkedin.com/in/siddchauhan77/). Start with the user, the decision, and the problem worth solving.
